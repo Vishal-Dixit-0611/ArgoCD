@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: abhishekf5/ultimate-cicd:replaceImageTag
+        image: vishaldixit0611/argocd-demo-cicd:8
         ports:
         - containerPort: 8080
